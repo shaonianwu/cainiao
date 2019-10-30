@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-30T07:28:54.957Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="fthErqVKa1e3YfocfkwT" version="12.1.8" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-30T07:30:07.701Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="N6HRgi7kvDQhhdw-Rym1" version="12.1.8" type="github" pages="1">
   <diagram id="aKIQjr99otgsSoPU95Y_" name="Page-1">
     <mxGraphModel dx="946" dy="1711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -303,6 +303,17 @@
         </mxCell>
         <mxCell id="NygcykSdxOqQU6l8nTSE-113" value="关联" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="NygcykSdxOqQU6l8nTSE-112">
           <mxGeometry x="-0.4832" y="3" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NygcykSdxOqQU6l8nTSE-114" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="440" as="sourcePoint"/>
+            <mxPoint x="740" y="-230" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NygcykSdxOqQU6l8nTSE-115" value="新&lt;br&gt;增&lt;br&gt;仓&lt;br&gt;配&lt;br&gt;行&lt;br&gt;业&lt;br&gt;SOP&lt;br&gt;流程" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="NygcykSdxOqQU6l8nTSE-114">
+          <mxGeometry x="-0.003" y="2" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
