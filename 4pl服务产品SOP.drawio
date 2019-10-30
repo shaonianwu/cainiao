@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-30T07:27:35.470Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="wUGDSdza_Sc4RYJh0XIC" version="12.1.8" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-30T07:28:03.085Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="JdRjOLzu6Zcw574--uxw" version="12.1.8" type="github" pages="1">
   <diagram id="aKIQjr99otgsSoPU95Y_" name="Page-1">
     <mxGraphModel dx="946" dy="1711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -234,7 +234,7 @@
             <mxPoint x="820" y="200" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NygcykSdxOqQU6l8nTSE-91" value="仓配运营小二&lt;br&gt;线路维护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NygcykSdxOqQU6l8nTSE-91" value="商家运营小二&lt;br&gt;商家订购" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="-170" width="90" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="NygcykSdxOqQU6l8nTSE-92" value="商家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
