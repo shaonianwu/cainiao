@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-05T03:24:35.981Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="nFq54ZmN2XB_sym06p9j" version="12.2.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-05T03:27:15.855Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="IHMivFkaPBS29FddDx5e" version="12.2.0" type="github" pages="1">
   <diagram id="IGneSwPGgaRRzDSN1f2Z" name="Page-1">
     <mxGraphModel dx="1723" dy="1711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -189,8 +189,8 @@
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wt0aWhjGFWQSCMT6oAi0-88" value="&lt;font style=&quot;font-size: 18px&quot;&gt;仓配服务产品SOP流程&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="286" y="-310" width="200" height="20" as="geometry"/>
+        <mxCell id="Wt0aWhjGFWQSCMT6oAi0-88" value="&lt;font style=&quot;font-size: 18px&quot;&gt;仓配服务产品SOP流程-优化&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="233" y="-220" width="240" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="Wt0aWhjGFWQSCMT6oAi0-89" value="商家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="-179.5" width="90" height="80" as="geometry"/>
