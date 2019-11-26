@@ -1,1 +1,46 @@
-<mxfile host="www.draw.io" modified="2019-11-26T09:41:35.120Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" version="12.3.1" etag="V7KKyyuCKNSU8DkIJn3L" type="github" pages="1"><diagram id="Af5edt5PwYTcpyoGtm6h">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-26T09:57:01.262Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="NGW4n1PEUxCfmT6jzam1" version="12.3.1" type="github" pages="1">
+  <diagram id="Af5edt5PwYTcpyoGtm6h" name="Page-1">
+    <mxGraphModel dx="946" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="oVEg28nPq0HRCkzIB7og-1" value="组网计算结果" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="150" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="oVEg28nPq0HRCkzIB7og-2" value="CP裁剪规则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="153.5" width="80" height="43" as="geometry"/>
+        </mxCell>
+        <mxCell id="oVEg28nPq0HRCkzIB7og-3" value="计算时效&lt;br&gt;变更项" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="153.5" width="80" height="43" as="geometry"/>
+        </mxCell>
+        <mxCell id="oVEg28nPq0HRCkzIB7og-4" value="分组聚合计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="153.5" width="80" height="43" as="geometry"/>
+        </mxCell>
+        <mxCell id="oVEg28nPq0HRCkzIB7og-5" value="标准时效过滤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="153.5" width="80" height="43" as="geometry"/>
+        </mxCell>
+        <mxCell id="oVEg28nPq0HRCkzIB7og-6" value="地址上翻" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="250" width="80" height="43" as="geometry"/>
+        </mxCell>
+        <mxCell id="oVEg28nPq0HRCkzIB7og-7" value="时效裁剪" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="250" width="80" height="43" as="geometry"/>
+        </mxCell>
+        <mxCell id="oVEg28nPq0HRCkzIB7og-8" value="编码映射" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="250" width="80" height="43" as="geometry"/>
+        </mxCell>
+        <mxCell id="oVEg28nPq0HRCkzIB7og-9" value="服务能力规则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="250" width="80" height="43" as="geometry"/>
+        </mxCell>
+        <mxCell id="oVEg28nPq0HRCkzIB7og-10" value="时效规则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="340" width="80" height="43" as="geometry"/>
+        </mxCell>
+        <mxCell id="oVEg28nPq0HRCkzIB7og-11" value="服务产品规则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="340" width="80" height="43" as="geometry"/>
+        </mxCell>
+        <mxCell id="oVEg28nPq0HRCkzIB7og-13" value="数据落盘" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="338" width="60" height="47" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
