@@ -1,1 +1,25 @@
-<mxfile host="www.draw.io" modified="2019-11-26T08:22:33.133Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" version="12.3.1" etag="ad293mcRmR3cOzZPYZEf" type="github"><diagram id="bm1bNOkj_8VyeEYl24zR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-26T08:25:33.314Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="FXAKk8MqkK6dQUqQxU6-" version="12.3.1" type="github" pages="1">
+  <diagram id="bm1bNOkj_8VyeEYl24zR" name="Page-1">
+    <mxGraphModel dx="946" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="pQBGxlGY77EAfO2A1jO3-2" value="TNC" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="160" y="290" width="150" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="pQBGxlGY77EAfO2A1jO3-3" value="组网计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187.5" y="320" width="95" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="pQBGxlGY77EAfO2A1jO3-4" value="TNS" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="440" y="285" width="150" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="pQBGxlGY77EAfO2A1jO3-6" value="metaq" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="310" width="90" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="pQBGxlGY77EAfO2A1jO3-7" value="方案计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="471" y="316" width="95" height="30" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
