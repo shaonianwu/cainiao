@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-26T08:41:40.630Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="zqXEzxh_b2B8ou54KuQj" version="12.3.1" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-26T08:45:57.747Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="3NLDvLKswNcAlpKgHGdk" version="12.3.1" type="github" pages="1">
   <diagram id="bm1bNOkj_8VyeEYl24zR" name="Page-1">
     <mxGraphModel dx="946" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,11 +94,11 @@
             <mxPoint x="360" y="670" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pQBGxlGY77EAfO2A1jO3-32" value="&lt;h1&gt;优缺点&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="620" width="430" height="120" as="geometry"/>
-        </mxCell>
         <mxCell id="pQBGxlGY77EAfO2A1jO3-33" value="单段线路查询" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="215" y="490" width="100" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="pQBGxlGY77EAfO2A1jO3-35" value="&lt;h1 style=&quot;font-size: 15px&quot;&gt;优缺点&lt;/h1&gt;&lt;div&gt;优点&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;组网计算和方案计算应用级别解耦。不在共享机器内存&lt;/div&gt;&lt;div&gt;缺点&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;方案计算依赖组网计算结果落盘。落盘时间是性能瓶颈&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="620" width="430" height="90" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
