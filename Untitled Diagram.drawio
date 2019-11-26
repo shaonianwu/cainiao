@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-26T08:29:18.466Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="xLHsvBGXoIa9fY05Pphy" version="12.3.1" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-26T08:31:28.849Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="z9jkC0AE1G3Wf1uDcVxF" version="12.3.1" type="github" pages="1">
   <diagram id="bm1bNOkj_8VyeEYl24zR" name="Page-1">
     <mxGraphModel dx="946" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
             <mxPoint x="340" y="550" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pQBGxlGY77EAfO2A1jO3-10" value="方案计算&lt;br&gt;依赖DB落盘" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pQBGxlGY77EAfO2A1jO3-10" value="3.方案计算数据查询" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="355.5" y="400" width="129" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="pQBGxlGY77EAfO2A1jO3-12" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="pQBGxlGY77EAfO2A1jO3-6">
@@ -48,6 +48,12 @@
             <mxPoint x="230" y="360" as="sourcePoint"/>
             <mxPoint x="290" y="550" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pQBGxlGY77EAfO2A1jO3-15" value="1.组网计算结果落盘" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="380" width="129" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="pQBGxlGY77EAfO2A1jO3-16" value="2.消息通知" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="346" y="278" width="60" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
