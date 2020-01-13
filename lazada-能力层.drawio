@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-13T08:59:37.324Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="f5q8ZyqfWrZ1FEbPzYhr" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-13T09:01:12.050Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="0hpy5kx9CP180tmgEIyt" version="12.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1753" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,18 +67,6 @@
             <mxPoint x="600" y="350" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9fP7N4kS7fGpAyiYnjO7-35" value="BizTypeEnum" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=22;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-40" y="150" width="140" height="100" as="geometry"/>
-        </mxCell>
-        <mxCell id="9fP7N4kS7fGpAyiYnjO7-36" value="揽收业务" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="9fP7N4kS7fGpAyiYnjO7-35" vertex="1">
-          <mxGeometry y="22" width="140" height="26" as="geometry"/>
-        </mxCell>
-        <mxCell id="9fP7N4kS7fGpAyiYnjO7-37" value="配送业务" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="9fP7N4kS7fGpAyiYnjO7-35" vertex="1">
-          <mxGeometry y="48" width="140" height="26" as="geometry"/>
-        </mxCell>
-        <mxCell id="9fP7N4kS7fGpAyiYnjO7-38" value="运输业务" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="9fP7N4kS7fGpAyiYnjO7-35" vertex="1">
-          <mxGeometry y="74" width="140" height="26" as="geometry"/>
-        </mxCell>
         <mxCell id="9fP7N4kS7fGpAyiYnjO7-56" value="" style="endArrow=none;dashed=1;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-130" y="40" as="sourcePoint"/>
@@ -112,8 +100,8 @@
         <mxCell id="ztJhW-txVgWMC0Fm-MHa-3" value="delivery_option         配送类型" style="text;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="394" width="230" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="ztJhW-txVgWMC0Fm-MHa-9" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;font color=&quot;#ff0000&quot;&gt;模型说明&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;delivery_option:&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arialmt&amp;#34; , &amp;#34;arial&amp;#34; ; font-size: 13px ; white-space: normal&quot;&gt;standard、&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arialmt&amp;#34; , &amp;#34;arial&amp;#34; ; font-size: 13px ; white-space: normal&quot;&gt;economic、&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arialmt&amp;#34; , &amp;#34;arial&amp;#34; ; font-size: 13px ; white-space: normal&quot;&gt;express&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arialmt&amp;#34; , &amp;#34;arial&amp;#34; ; font-size: 13px ; white-space: normal&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;from_wave_code和from_res_code国内发货是存储仓&amp;amp;仓波次信息&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;to_res_code 和to_wave_code主要是逆向或者调拨场景支持&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;supplier_code是配送服务商(3pl服务商信息) 。目前lel的场景不需要&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="530" width="400" height="90" as="geometry"/>
+        <mxCell id="ztJhW-txVgWMC0Fm-MHa-9" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;font color=&quot;#ff0000&quot;&gt;模型说明&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;delivery_option:&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arialmt&amp;#34; , &amp;#34;arial&amp;#34; ; font-size: 13px ; white-space: normal&quot;&gt;standard、&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arialmt&amp;#34; , &amp;#34;arial&amp;#34; ; font-size: 13px ; white-space: normal&quot;&gt;economic、&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arialmt&amp;#34; , &amp;#34;arial&amp;#34; ; font-size: 13px ; white-space: normal&quot;&gt;express&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arialmt&amp;#34; , &amp;#34;arial&amp;#34; ; font-size: 13px ; white-space: normal&quot;&gt;biz_type: G、LAZAMART、NORMAL&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arialmt&amp;#34; , &amp;#34;arial&amp;#34; ; font-size: 13px ; white-space: normal&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;from_wave_code和from_res_code国内发货是存储仓&amp;amp;仓波次信息&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;to_res_code 和to_wave_code主要是逆向或者调拨场景支持&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;supplier_code是配送服务商(3pl服务商信息) 。目前lel的场景不需要&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="550" width="400" height="100" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
