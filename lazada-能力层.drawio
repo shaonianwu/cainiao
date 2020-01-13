@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-13T08:20:36.195Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="oAx8_mtPIO_WeEBQzAYI" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-13T08:22:45.039Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="QfxTYLyulrxM-rpqAL-m" version="12.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1753" dy="1740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1753" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
@@ -82,11 +82,8 @@
             <mxPoint x="834" y="40" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9fP7N4kS7fGpAyiYnjO7-57" value="&lt;font style=&quot;font-size: 23px&quot;&gt;资源模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-240" y="560" width="110" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="9fP7N4kS7fGpAyiYnjO7-58" value="&lt;font style=&quot;font-size: 23px&quot;&gt;能力层模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-240" y="234" width="130" height="20" as="geometry"/>
+        <mxCell id="9fP7N4kS7fGpAyiYnjO7-58" value="&lt;font style=&quot;font-size: 23px&quot;&gt;能力网络模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-250" y="234" width="150" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="9fP7N4kS7fGpAyiYnjO7-83" value="&lt;font style=&quot;font-size: 23px&quot;&gt;方案层模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-250" y="-133" width="130" height="20" as="geometry"/>
